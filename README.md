@@ -1,6 +1,6 @@
 ## Industry-Sponsored Capstone - Group Project
 
-Our software engineering capstone project was for a confidential finanical services smb and our work cannot be shared. This README provides some highlights of the work.
+Our software engineering capstone project was for a confidential financial services smb and our work cannot be shared. This README provides some highlights of the work.
 
 ### Tools and Technologies
 ![tech](./tech.png)
